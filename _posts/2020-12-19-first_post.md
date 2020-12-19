@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+
+title: "Welcome to Apostle site!"
+date: 2020-12-19
 ---
 
 # Welcome
